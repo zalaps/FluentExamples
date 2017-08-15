@@ -1,0 +1,8 @@
+D:\Git\FluentExamples\FluentExamples\bin\Debug\FluentExamples.exe.config
+D:\Git\FluentExamples\FluentExamples\bin\Debug\FluentExamples.exe
+D:\Git\FluentExamples\FluentExamples\bin\Debug\FluentExamples.pdb
+D:\Git\FluentExamples\FluentExamples\bin\Debug\FluentValidation.dll
+D:\Git\FluentExamples\FluentExamples\bin\Debug\FluentValidation.xml
+D:\Git\FluentExamples\FluentExamples\obj\Debug\FluentExamples.exe
+D:\Git\FluentExamples\FluentExamples\obj\Debug\FluentExamples.pdb
+D:\Git\FluentExamples\FluentExamples\obj\Debug\FluentExamples.csprojResolveAssemblyReference.cache
